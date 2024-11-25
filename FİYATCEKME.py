@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+                                                   #FİYAT ÇEKME
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
