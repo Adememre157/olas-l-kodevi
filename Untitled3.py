@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+                                                #ANA KOD ORALAMA, MEDYAN, GRAFİK VE TESTLERİ VS.. ÇEKME
 
 import requests
 from bs4 import BeautifulSoup
