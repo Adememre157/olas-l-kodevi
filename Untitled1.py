@@ -3,7 +3,7 @@
 
 # In[4]:
 
-
+                                                  #PUAN ÇEKME
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
